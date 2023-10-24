@@ -1,0 +1,51 @@
+[{
+  "_id": {
+    "$oid": "652e9fb3dde70278e060e00f"
+  },
+  "nombre": "Pendenciero botanico",
+  "tipo": "Criatura",
+  "subtipo": "Guerrero elemental",
+  "habilidad": "Arrolla",
+  "color": "Blanco Verde",
+  "coste_mana": 2,
+  "rareza": "Poco comun",
+  "expansion": "Marcha de las maquinas",
+  "poder_resistencia": "0/0"
+},
+{
+  "_id": {
+    "$oid": "652ea23fdde70278e060e011"
+  },
+  "nombre": "Redentora de Serra",
+  "tipo": "Criatura",
+  "subtipo": "Soldado angel",
+  "habilidad": "Vuela",
+  "color": "Blanco",
+  "coste_mana": 5,
+  "rareza": "Rara",
+  "expansion": "Dominaria Unida",
+  "poder_resistencia": "2/4"
+},
+{
+  "_id": {
+    "$oid": "652ea30bdde70278e060e012"
+  },
+  "nombre": "Llamabestias Quiron",
+  "tipo": "Criatura",
+  "subtipo": "Guerrero driada",
+  "color": "Verde",
+  "coste_mana": 2,
+  "rareza": "Rara",
+  "expansion": "Dominaria Unida",
+  "poder_resistencia": "2/2"
+},
+{
+  "_id": {
+    "$oid": "652ea3dcdde70278e060e013"
+  },
+  "nombre": "Mandato de Titania",
+  "tipo": "Conjuro",
+  "color": "Verde",
+  "coste_mana": 6,
+  "expansion": "La Guerra de los Hermanos"
+}]
